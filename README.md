@@ -12,6 +12,9 @@ screenshots:
 
 <img width="1913" height="1022" alt="Screenshot 2025-08-14 111231" src="https://github.com/user-attachments/assets/2b3d1f0f-b9e3-45f9-9299-882705aafbfc" />
 
+<img width="1905" height="1009" alt="Screenshot 2025-08-14 104518" src="https://github.com/user-attachments/assets/8aac8a2f-f607-4182-acc9-99c32adfcdd8" />
+
+
 
 
 
