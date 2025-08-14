@@ -1,16 +1,4 @@
-# netdatadocker
 
-step-1 : install netdata container on docker & run it
-
-docker run -d --name=netdata \
-  -p 19999:19999 \
-  --cap-add SYS_PTRACE \
-  --security-opt apparmor=unconfined \
-  netdata/netdata
-
-step-2 : Once it’s running, open netdata
-
-http://localhost:19999
 
 screenshots:
 
